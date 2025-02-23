@@ -1,1 +1,3 @@
 creates first.txt file
+this my first github file 
+i am improve my knowledge for github
